@@ -4,7 +4,7 @@ import webbrowser
 class Movie():
     """ This class provides a way to store movie related information"""
 
-	# valid ratings constants.  will be used in future ratings functionality
+    # valid ratings constants.  will be used in future ratings functionality
     VALID_RATINGS = ["G", "PG", "PG-13", "R", "XXX"]
 
     # constructor for this class.  creates an instance of a movie
